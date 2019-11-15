@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Share"
+        app:showAsAction="never"
+        android:id="@+id/share_item"/>
+    <item
+        android:title="Send"
+        app:showAsAction="never"
+        android:id="@+id/send_item"/>
+    <item
+        android:title="View messages"
+        app:showAsAction="never"
+        android:id="@+id/msg_item"/>
+</menu>
